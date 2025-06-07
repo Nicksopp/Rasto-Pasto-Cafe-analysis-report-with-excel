@@ -8,7 +8,7 @@ Built using Microsoft Excel, this dashboard is ideal for **Business/Data Analyst
 
 ---
 
-## 🎯 Objective
+## 🎯 Objectives
 
 To transform raw sales data from a café into a visually compelling dashboard that answers key business questions about:
 - Best-selling products
