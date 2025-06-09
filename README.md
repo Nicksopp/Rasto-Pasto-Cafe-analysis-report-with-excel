@@ -2,7 +2,7 @@
 
 ## 📌 Project Description
 
-This project presents an interactive **Excel dashboard** for a café chain, "RESTO PASTO CAFÉ", showcasing key performance metrics such as sales trends, category performance, customer footfall, and store-wise revenue breakdown. It is a complete visual analytics solution aimed at helping business owners make data-driven decisions.
+This project presents an interactive **Excel dashboard** for a café chain, "RESTO PASTO CAFÉ", showcasing key performance metrics such as sales trends, category performance, customer footfall, and store-wise revenue breakdown. It is a complete visual analytics solution aimed at helping business owners make data-driven with  decisions.
 
 Built using Microsoft Excel, this dashboard is ideal for **Business/Data Analysts**, especially those learning how to build impactful visuals and explore KPIs from raw data.
 
