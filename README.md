@@ -18,7 +18,8 @@ To transform raw sales data from a café into a visually compelling dashboard th
 - Customer preferences by size, item, and category
 
 ## 📸 Dashboard Preview
-![Screenshot 2025-06-07 232843](https://github.com/user-attachments/assets/71376113-a519-4d93-9e49-82914657622a)
+![Screenshot 2025-06-09 204932](https://github.com/user-attachments/assets/ee704763-fa10-40b8-890a-0e465bc99716)
+
 
 
 
